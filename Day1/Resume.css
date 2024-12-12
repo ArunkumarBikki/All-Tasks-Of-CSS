@@ -1,0 +1,22 @@
+
+.name{
+    background-color: rgb(222, 61, 155); color: rgb(159, 240, 227)
+}
+.careerobjective{
+    background-color: rgb(177, 175, 241); color: rgb(250, 33, 5)
+}
+.educationalqualifications{
+    background-color: rgb(247, 109, 109); color: rgb(241, 248, 185)
+}
+.skills{
+    color: blue;
+}
+.project{
+    background-color: rgb(10, 231, 109); color: rgb(46, 2, 157)
+}
+.hobbies{
+    background-color: rgb(126, 126, 250); color: red
+}
+.declaration{
+    background-color: darkseagreen
+}

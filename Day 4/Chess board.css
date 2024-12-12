@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+table.chessboard {
+  border-collapse: collapse;
+  margin: 30px auto;
+  width: 48p0x;
+  height: 480px;
+}
+
+td {
+  width: 60px;
+  height: 60px;
+  border: 1px; color: black;
+  font-size: 40px;
+} 
+
+.Cream {
+  background-color: #F0D9B5;
+}
+ 
+.Brown {
+  background-color: #6B4F33;
+}
+#c:hover{
+  color: aqua;
+}
+#b:hover{
+  color: red;
+}
