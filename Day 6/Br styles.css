@@ -17,7 +17,6 @@ a{
 .nav{
     padding: 15px;
     position: relative;
-    /* top: -10.5px; */
     
 }
 .nav-1{
@@ -67,7 +66,6 @@ b{
     
 }
 .subchild-2{
-    /* background-color: black; */
     color: aliceblue;
     position: absolute;
     z-index: 0;
@@ -81,10 +79,8 @@ b{
     letter-spacing: 3px;
     font-size: 20px;
 }
-/* main-nav,a,nav,nav-1,nav-2,nav-3,nav-4,b,main-1,child-1,subchild-1,subchild-2 */
-/* projects */     
+   
 .main-2{
-    /* background-color: black; */
     margin: 20px;
 }
 .child5,.child2, .child3, .child4{
@@ -100,18 +96,13 @@ margin-left: 3.6%;
     top: 0px;
     padding: 10px;
 }
-/* main-2,child2,child3,child4,child5,subchild-3,h1 */
-/* About */
 .subchild-4{
     margin: 20px;
     font-size: 15px;
     letter-spacing: 1.2px;
 }
-/* main-nav,a,nav,nav-1,nav-2,nav-3,nav-4,b,main-1,child-1,subchild-1,subchild-2 */
-/* main-2,child2,child3,child4,child5,subchild-3,h1 */
 .submain-3{
     width: 20vw;
-    /* background-color: yellow; */
     margin: 20px;
     height: 85vh;
 }
