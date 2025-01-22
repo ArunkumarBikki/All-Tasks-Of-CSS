@@ -1,0 +1,33 @@
+.child1,.child2,.child3,.child4,.child5,.child6{
+    width: 300px;
+    height: 240px;
+    border: 1px solid rgb(233, 243, 253);
+    box-shadow: 0px 0px 5px black;
+    padding: 10px;
+}
+.child1a,.child2a,.child3a,.child4a,.child5a,.child6a{
+    display: flex;
+}
+.child1c,.child2c,.child3c,.child4c,.child5c,.child6c{
+    display: flex;
+    justify-content: space-between;
+}
+.parent1,.parent2{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+   /* border: 1px solid black;*/
+    padding-right: 20%;
+    padding-left: 20%;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}

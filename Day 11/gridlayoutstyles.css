@@ -1,0 +1,11 @@
+.child1,.child2,.child3,.child4,.child5,.child6{
+    display: grid;
+    border: 1px solid red;
+}
+.child3{
+    grid-row-start: 3;
+    grid-row-end: 5;
+}
+.parent{
+    display: grid;
+}

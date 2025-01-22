@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .translate:hover~img{
+            transform: translate(100px);
+            transition: 3s;
+        }
+        .rotate:hover ~ img{
+            transform: rotate(45deg);
+            transition: 3s;
+        }
+        .scale:hover ~ img{
+            transform: scale(1.5);
+            transition: 3s;
+        }
+        .skew:hover ~ img{
+            transform: skewY(20deg);
+            transition: 3s;
+        }
+        body{
+            background-color: rgb(173, 230, 223);
+        }
+        img{
+            padding-top: 80px;
+            padding-left: 80px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="main">
+    <button class="translate">Translate</button>
+    <button class="rotate">Rotate</button>
+    <button class="scale">Scale</button>
+    <button class="skew">Skew</button><br><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg" height="300px">
+    </div>
+</body>
+</html>

@@ -1,3 +1,9 @@
 h3{
-    color: blue; background-color: green;
+    color: rgb(83, 108, 250); background-color: rgb(201, 252, 151);
+}
+h2 {
+    color: rgb(229, 172, 3); background-color: rgb(197, 249, 146);      
+}
+h1{
+    color: rgb(255, 0, 208); background-color: rgb(198, 252, 143);
 }

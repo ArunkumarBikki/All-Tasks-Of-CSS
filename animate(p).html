@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+        <link
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+        />
+    <style>
+        .my-element {
+            display: inline-block;
+            margin: 0 0.5rem;
+          
+            animation: bounce; /* referring directly to the animation's @keyframe declaration */
+            animation-duration: 2s; /* don't forget to set a duration! */
+          }
+          /* This only changes this particular animation duration */
+.animate__animated.animate__bounce {
+  --animate-duration: 2s;
+}
+
+/* This changes all the animations globally */
+:root {
+  --animate-duration: 800ms;
+  --animate-delay: 0.9s;
+}
+         </style>
+</head>
+<body>
+    <h1 class="animate__animated animate__bounce">An animated element</h1>
+
+</body>
+</html>

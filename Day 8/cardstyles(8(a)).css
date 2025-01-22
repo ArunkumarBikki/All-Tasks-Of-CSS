@@ -1,0 +1,204 @@
+h1{
+    font-size: 2rem;
+    text-align: center;
+    padding: 10px;
+    border: 3px solid black;
+    box-shadow: inset 0 0 20px lightcoral;
+    margin: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 0 50px;
+}
+.box{
+    display: flex;
+    width: 250px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 5px 5px rgb(140, 131,131);
+}
+#oswald:hover{
+    font-family: "Oswald", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+   }
+#kanit:hover{
+    font-family: "Kanit", serif;
+font-weight: 500;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#josefinslab:hover{
+    font-family: "Josefin Slab", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#danfo:hover{
+    font-family: "Danfo", serif;
+font-optical-sizing: auto;
+font-weight: 400;
+font-style: normal;
+font-variation-settings:
+"ELSH" 0;
+transform: scale(1.1);
+    transition: 1s;
+}
+#greatvibes:hover{
+    font-family: "Great Vibes", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#playball:hover{
+    font-family: "Playball", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#lobster:hover{
+    font-family: "Lobster", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#rowdies:hover{
+    font-family: "Rowdies", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#pacifico:hover{
+    font-family: "Pacifico", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#micro5:hover{
+    font-family: "Micro 5", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#jacquard12:hover{
+    font-family: "Jacquard 12", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#shadows:hover{
+    font-family: "Shadows Into Light", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#tiny5:hover{
+    font-family: "Tiny5", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#permanent:hover{
+    font-family: "Permanent Marker", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#abrilfatface:hover{
+    font-family: "Abril Fatface", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#dmserif:hover{
+    font-family: "DM Serif Text", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#playwrite:hover{
+    font-family: "Playwrite IN", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#jersey:hover{
+    font-family: "Jersey 15", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#inter:hover{
+    font-family: "Inter", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#italianno:hover{
+    font-family: "Italianno", serif;
+font-weight: 400;
+font-style: normal;
+transform: scale(1.1);
+    transition: 1s;
+}
+#oswald,#playball {
+  background-color: rgb(210, 210, 253)
+}
+#kanit,#permanent{
+  background-color: beige;
+}
+#josefinslab,#tiny5,#inter{
+  background-color: bisque;
+}
+#danfo,#lobster,#abrilfatface{
+  background-color: rgb(209, 251, 251);
+}
+#greatvibes,#micro5,#italianno{
+  background-color: lavenderblush;
+}
+#rowdies,#jersey{
+  background-color: lightpink;
+}
+#pacifico{
+  background-color: lightgoldenrodyellow;
+}
+#jacquard12{
+  background-color: rgb(255, 217, 147);
+}
+#shadows,#playwrite{
+  background-color: rgb(207, 225, 248);
+}
+#dmserif{
+  background-color: rgb(230, 250, 197);
+}

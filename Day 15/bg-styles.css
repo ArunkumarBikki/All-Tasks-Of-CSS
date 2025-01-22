@@ -1,0 +1,77 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+    border: 5px solid black;
+}
+.code1{
+    background-image: url(https://www.mindstask.com/en/wp-content/uploads/2022/03/frontendSmallBanner.jpg);
+}
+.code2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s);
+}
+.code3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkdDy1MPyAklifM98twCxSuRj7EVJPO0cmHg&s);
+}
+.code4{
+    background-image: url(https://media.istockphoto.com/id/1284271878/photo/javascript-inscription-against-laptop-and-code-background-learn-javascript-programming.jpg?s=612x612&w=0&k=20&c=H9FI5X3ZBQIyEijvhJc-jv5McwCh-BxqQPxee9Aoa08=);
+}
+.code5{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVOtPjeWtB39bOsOoOWso3HTiaEF2szC8jA&s);
+}
+.code6{
+    background-image: url(https://img.freepik.com/free-vector/back-end-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-210.jpg);
+}
+.code7{
+    background-image: url(https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg);
+}
+.code8{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png);
+}
+.code9{
+    background-image: url(https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png);
+}
+.code10{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4y4SB8nL4sSByHZ1Q2umSaEFmZ6ZWMgWEw&s);
+}
+.code11{
+    background-image: url(https://www.rlogical.com/wp-content/uploads/2020/12/MERN.webp);
+}
+.code12{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4y4SB8nL4sSByHZ1Q2umSaEFmZ6ZWMgWEw&s);
+}
+.code13{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr3Sp_9UnvsXgAfScS9AHtLrnKfSkAo5RLmw&s);
+}
+.code14{
+    background-image: url(https://www.patterns.dev/img/reactjs/react-logo@3x.svg);
+}
+.code15{
+    background-image: url(https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png);
+}
+.code16{
+    background-image: url(https://miro.medium.com/v2/resize:fit:825/0*P9YZRA4H7jlrjRS3.png);
+}
+.code17{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4y4SB8nL4sSByHZ1Q2umSaEFmZ6ZWMgWEw&s);
+}
+.code18{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr3Sp_9UnvsXgAfScS9AHtLrnKfSkAo5RLmw&s);
+}
+.code19{
+    background-image: url(https://www.amarinfotech.com/featureimages/Why-Angularjs-is-the-best-front-end-framework.jpg);
+}
+.code20{
+    background-image: url(https://images.ctfassets.net/aq13lwl6616q/7cS8gBoWulxkWNWEm0FspJ/c7eb42dd82e27279307f8b9fc9b136fa/nodejs_cover_photo_smaller_size.png);
+}
+.code1,.code2,.code3,.code4,.code5,.code6,.code7,
+.code8,.code9,.code10,.code11,.code12,.code13,
+.code14,.code15,.code16,.code17,.code18,.code19,.code20{
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 90vw;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    box-shadow: 1px 1px 5px 5px rgb(202, 201, 201);
+    margin: 10px;
+    margin-left: 60px;
+}
